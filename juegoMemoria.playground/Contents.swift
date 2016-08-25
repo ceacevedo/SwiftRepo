@@ -2,7 +2,7 @@
 
 import UIKit
 
-let numeros = 1...100
+let numeros = 0...100
 
 for numero in numeros{
     if (numero % 5) == 0 {
